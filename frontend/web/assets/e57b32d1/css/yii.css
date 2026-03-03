@@ -1,0 +1,229 @@
+.grid-view { padding-top:20px; }
+.grid-view table.items th a {
+  display:block;
+  position:relative;
+}
+.grid-view table.items th a .caret {
+  display:none;
+  position:absolute;
+  right:5px;
+  top:7px;
+}
+.grid-view table.items th a.asc .caret { display:block; }
+.grid-view table.items th a.desc .caret {
+  border-bottom:4px solid #000000;
+  border-top:none;
+  display:block;
+}
+.grid-view table.items tr.selected td { background:#eeeeee; }
+.grid-view .filters .filter-container { padding:0 15px 0 0; }
+.grid-view .filters input, .grid-view .filters select {
+  margin-bottom:0;
+  width:100%;
+}
+.grid-view .button-column {
+  text-align:center;
+  width:50px;
+}
+.grid-view .checkbox-column { width:15px; }
+.grid-view .summary {
+  margin-bottom:5px;
+  text-align:right;
+}
+.grid-view .pager { margin-top:5px; }
+.grid-view .empty { font-style:italic; }
+.grid-view-loading { background:url(../img/loading.gif) no-repeat; }
+.list-view { padding-top:20px; }
+.list-view .summary {
+  margin-bottom:5px;
+  text-align:right;
+}
+.list-view .pager { margin-top:5px; }
+.list-view .sorter {
+  margin:0 0 5px 0;
+  text-align:right;
+}
+.list-view .sorter ul {
+  display:inline;
+  list-style:none outside none;
+  margin:0;
+  padding:0;
+}
+.list-view .sorter li {
+  display:inline;
+  margin:0 0 0 5px;
+  padding:0;
+}
+.list-view .sorter a .caret {
+  position:absolute;
+  right:5px;
+  top:7px;
+}
+.list-view .sorter a .caret.desc .caret {
+  border-bottom:4px solid #000000;
+  border-top:none;
+}
+.list-view-loading { background:url(../img/loading.gif) no-repeat; }
+.detail-view .null { color:#ffc0cb; }
+.detail-view th {
+  text-align:right;
+  width:160px;
+}
+span.required { color:#ff0000; }
+.form-inline label.error, .form-horizontal label.error, .form-vertical label.error { color:#b94a48; }
+.form-inline select.error, .form-inline input.error, .form-inline textarea.error, .form-horizontal select.error, .form-horizontal input.error, .form-horizontal textarea.error, .form-vertical select.error, .form-vertical input.error, .form-vertical textarea.error {
+  border-color:#b94a48;
+  color:#b94a48;
+}
+.form-inline select.error:focus, .form-inline input.error:focus, .form-inline textarea.error:focus, .form-horizontal select.error:focus, .form-horizontal input.error:focus, .form-horizontal textarea.error:focus, .form-vertical select.error:focus, .form-vertical input.error:focus, .form-vertical textarea.error:focus { border-color:#953b39; }
+.form-inline .help-block.error, .form-inline .help-inline.error, .form-horizontal .help-block.error, .form-horizontal .help-inline.error, .form-vertical .help-block.error, .form-vertical .help-inline.error { color:#b94a48; }
+
+
+#page .row .span9 #content {
+    background: #ddd none repeat scroll 0 0;
+    margin-bottom: 10px;
+    padding: 12px;
+}
+.filters td:first-child {
+    padding-left: 0; width: 47px;
+}
+.table-bordered th, .table-bordered td {
+  
+    vertical-align: middle;
+}
+
+.table-striped tbody > tr:nth-child(2n+1) > td, .table-striped tbody > tr:nth-child(2n+1) > th {
+    background-color: #cecccc;
+}
+.filters td .filter-container input[type="text"] {
+    border: 1px solid #ccc;
+}
+.grid-view table.items th a {font-weight:normal;}
+.table-bordered th, .table-bordered td{border:none;font-size:13px;}
+#page .row .span3 {
+    background: #dddddd none repeat scroll 0 0;
+    padding: 13px;
+    width: 237px;
+}
+.container .breadcrumb {
+    padding-left: 0;
+}
+.portlet-decoration .portlet-title {
+    border-bottom: 1px solid #0088cc;
+    margin-bottom: 4px;
+    padding: 0 0 7px;
+}
+
+#page .row .span9 #content #content-grid.grid-view {
+    padding-top: 0;
+}
+#page .row .span9 #content h1 {
+    border-bottom: 1px solid;
+    color: #0088cc;
+    font-size: 26px;
+}
+#content .items .odd td {
+    background: #cecccc none repeat scroll 0 0;
+}
+#topics-grid .items .filters td:first-child {
+    width: auto;
+}
+#topic-index-grid .items .filters td:first-child {
+    width: auto;
+}
+
+
+
+.adminsection .navbar-fixed-top, .navbar-fixed-bottom {
+   
+    height: 100%;
+    right: auto;
+    width: 222px;
+}
+.adminsection .navbar-inner {
+    background: #666 none repeat scroll 0 0;
+    box-shadow: none;
+    height: 100%;
+}
+.adminsection .navbar-inner .container {
+    width: auto;
+}
+.adminsection .navbar .brand {
+    color: #fff;
+    margin: 0;
+    padding: 18px 0;
+    text-align: center;
+    text-shadow: 0 0;
+    width: 100%;
+}
+.adminsection .navbar .nav {
+    margin-left: 11px;
+}
+.adminsection .navbar .nav > li {
+    width: 100%;
+}
+.adminsection .navbar .nav > li.active a {
+    background: #fff none repeat scroll 0 0;
+    box-shadow: none;
+    color: #0088cc;
+    margin-bottom: 1px;
+}
+.adminsection .navbar .nav > li > a {
+    color: #555;
+	background:#ddd;margin-bottom:1px;
+   padding:6px 15px;
+    text-shadow: 0 0;
+}
+.adminsection #page.container {
+    float: left;
+    margin-left: 220px;
+    padding: 0;
+    width: 83.6%;
+}
+.adminsection .filters td .filter-container input[type="text"] {
+    margin-bottom: 12px;
+}
+.adminsection .breadcrumb > li {
+    text-shadow: 0 0;
+}
+.adminsection #page .row .span9 #content h1 {
+    font-size: 19px;
+}
+.adminsection .grid-view {
+    padding-top: 0;
+}
+.adminsection .breadcrumb {
+    background: #666;
+   border-radius:0;
+    margin-bottom: 0;
+    padding: 17px 17px 15px;
+}
+.adminsection #footer {
+    padding: 0 20px;
+}
+.adminsection .navbar .nav > li.active:first-child a {
+    background: #ccc none repeat scroll 0 0;
+    color: #555;
+}
+.adminsection .breadcrumb li a {
+    color: #fff;
+}
+.adminsection #page .row .span3 {
+    margin-left: 0;
+    width: 208px;float:right;
+}
+body.adminsection{background:#ddd;}
+
+.adminsection #page .row {
+    margin: 0!important;
+}
+.adminsection #page .row .span9 { 
+    margin-left: 0;
+}
+.navbar .navbar-inner .nav li.dropdown ul.dropdown-menu li.dropdown-submenu ul.dropdown-menu {
+    height: 320px;
+    overflow-y: scroll;
+}
+.input_repeat_adminm{width:100%;float:left;}
+.input_repeat_adminm label{display:inline-block;float:left;width:auto; min-width: 157px;}
+.input_repeat_adminm input[type="text"],.input_repeat_adminm input[type="password"]{float:left!important;height:11px;}
