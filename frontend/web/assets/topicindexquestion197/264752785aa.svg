@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" enable-background="new 0 0 500 500" xml:space="preserve">
+<symbol  id="New_Symbol" viewBox="-64.6 -32.3 129.2 64.7">
+
+		<path fill="#7A94BB" stroke="#AEB9D7" stroke-width="1.5086" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M-63.8-5.7c0,0,18.9-26.7,72.8-25.8L63.8,6.2c0,0-30.9-3.2-73.3,25.4L-63.8-5.7z"/>
+	<polygon display="none" fill="none" points="-65,32 65,32 65,-32 -65,-32 	"/>
+</symbol>
+<symbol  id="New_Symbol_1" viewBox="-19 -14.7 38 29.3">
+	<path fill="#811619" stroke="#BE1E2D" stroke-width="1.4255" stroke-miterlimit="10" d="M17.7,0.7C17.1-7.3,8.3-14-2-14
+		C-12.2-13.9-19.1-7-17.5,0.9C-15.9,8.3-7.2,14,1.9,14C11.1,13.9,18.2,8.1,17.7,0.7z"/>
+	<polygon display="none" fill="none" points="-19,14 19,14 19,-14 -19,-14 	"/>
+</symbol>
+<symbol  id="New_Symbol_2" viewBox="-14.7 -50.6 29.5 101.2">
+
+		<path fill="#AEB9D7" stroke="#7A94BB" stroke-width="1.5086" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M-14-47.8L1.4,48c0.3,1.7,2.3,2.5,3.6,1.4c3-2.5,7.2-8.7,7.7-23.4c0-1-1.1-1.7-2-1.1L7,27.4c0,0,6.8-14.8,7-30.3
+		c0-0.9-1-1.4-1.7-0.9L8.2-0.7c0,0,5.1-6.5,1.5-21.9c-0.2-1-1.4-1.4-2.2-0.8l-3.7,2.6c0,0-3.7-15-11.5-15.5l-2.4-13.5L-14-47.8z"/>
+</symbol>
+<g>
+	<rect x="0" fill="#7A94BB" width="500" height="500"/>
+
+		<use xlink:href="#New_Symbol"  width="129.2" height="64.7" x="-64.6" y="-32.3" transform="matrix(1.8474 -0.5341 -0.5341 -1.8474 226.9231 269.2308)" overflow="visible"/>
+
+		<use xlink:href="#New_Symbol"  width="129.2" height="64.7" x="-64.6" y="-32.3" transform="matrix(1.9159 -0.1659 -0.1659 -1.9159 182.6923 267.3077)" overflow="visible"/>
+
+		<use xlink:href="#New_Symbol"  width="129.2" height="64.7" x="-64.6" y="-32.3" transform="matrix(1.9231 0 0 -1.9231 132.6923 273.0769)" overflow="visible"/>
+
+		<use xlink:href="#New_Symbol_2"  width="29.5" height="101.2" x="-14.7" y="-50.6" transform="matrix(1.778 -0.2953 -0.3151 -1.8971 436.6115 126.4134)" overflow="visible"/>
+
+		<use xlink:href="#New_Symbol_2"  width="29.5" height="101.2" x="-14.7" y="-50.6" transform="matrix(1.9231 0 0 -1.9231 456.6348 117.949)" overflow="visible"/>
+
+		<path fill="#7A94BB" stroke="#AEB9D7" stroke-width="2.9011" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M473.3,270.5c0,37-39.7,34.3-39.7,34.3s-39.4,2.7-39.4-34.3c0-22.5,23.9-26.1,25.7-38.8c1.8-12.6-10.6-16.2-10.6-16.2l24.4-15.3
+		l24.5,15.3c0,0-12.2,3.6-10.5,16.2C449.5,244.4,473.3,248,473.3,270.5z"/>
+
+		<path fill="#AEB9D7" stroke="#7A94BB" stroke-width="2.9011" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M405.2,296.4c0,0,12.9,3.1,29.8,3.1c15.1,0,27.3-3.1,27.3-3.1c6.2-5.3,11-13.5,11-26.1c0-6.8-2.3-13.8-5.4-16.4c0,0-16.1,4-33.8,4
+		c-19.5,0-34.4-4-34.4-4c-3.2,2.7-5.5,9.6-5.5,16.4C394.2,282.9,399,291.1,405.2,296.4z"/>
+
+		<path fill="#7A94BB" stroke="#AEB9D7" stroke-width="2.9011" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M460.6,218.8h-54.3c-3.1,0-5.6-2.5-5.6-5.6V205c0-3.1,2.5-5.6,5.6-5.6h54.3c3.1,0,5.6,2.5,5.6,5.6v8.2
+		C466.3,216.3,463.8,218.8,460.6,218.8z"/>
+
+		<path fill="#F8F3C5" stroke="#CBCB64" stroke-width="2.7414" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M432,427.6l-362.9-3.9c-7-0.1-10.2-5.1-7.2-11l58.8-116c1.8-3.5,7.5-6.3,12.7-6.3l271.3,2.2c5.3,0,10.3,2.9,11.1,6.5l26.5,117.6
+		C443.8,422.8,439.1,427.7,432,427.6z"/>
+
+		<path fill="#F8F3C5" stroke="#CBCB64" stroke-width="2.7414" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M419.9,299.9l-0.7-2.9c-0.7-3.1-5.7-5.5-11.1-5.6l-276.8-2.1c-5.4,0-10.9,2.2-12.5,5.3l-1.8,3.5l127.8,82.1
+		c4.7,3,12.3,3.1,17.9,0.2L419.9,299.9z"/>
+
+		<use xlink:href="#New_Symbol_1"  width="38" height="29.3" x="-19" y="-14.7" transform="matrix(2.5082 0 0 -2.5082 255.7692 376.9231)" overflow="visible"/>
+
+		<use xlink:href="#New_Symbol_1"  width="38" height="29.3" x="-19" y="-14.7" transform="matrix(1.9231 0 0 -1.9231 255.7692 375)" overflow="visible"/>
+
+		<text transform="matrix(0.9598 0 -0.1212 0.9926 236.6489 385.4604)" fill="#BE1E2D" font-family="'Chalkboard'" font-size="35.9083">SL</text>
+</g>
+</svg>

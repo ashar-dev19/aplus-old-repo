@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="500px" height="500px" viewBox="0 0 500 500" enable-background="new 0 0 500 500" xml:space="preserve"><clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_" overflow="visible"/>
+		</clipPath><clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_" overflow="visible"/>
+		</clipPath>
+<symbol id="New_Symbol_3" viewBox="-22.961 -19.104 45.924 38.206">
+	<path fill="#E6E7EB" stroke="#9C9EA5" stroke-width="0.5" stroke-miterlimit="10" d="M-14.443,1.188v-1.863l-0.175,0.147
+		c-0.501,0.421-0.841,1.035-0.972,1.716h-0.604l-0.099,1.581h0.641v1.348c0,0.557-0.35,1.02-0.811,1.117l0.006,1.43h0.508
+		c0.832,0,1.506-0.772,1.506-1.724V2.769V1.188z"/>
+
+		<path fill="#E6E7EB" stroke="#9C9EA5" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M3.189,16.189c0.606-0.519,1.118-1.148,1.496-1.851c0,0,1.72-0.35,2.347,0.15c0.086,0.069,0.096,0.201,0.02,0.282
+		c-0.817,0.871-1.523,0.724-1.523,0.724c-0.351,0.716-0.819,1.372-1.376,1.942"/>
+	<path fill="#E6E7EB" stroke="#9C9EA5" stroke-width="0.5" stroke-miterlimit="10" d="M14.257,2.769V4.94
+		c0,0.952,0.674,1.724,1.506,1.724h0.508l0.006-1.43c-0.462-0.097-0.811-0.561-0.811-1.117V2.769h0.641l-0.099-1.581h-0.604
+		c-0.131-0.682-0.471-1.295-0.972-1.716l-0.175-0.147v1.863V2.769z"/>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M15.901-10.668c0-4.521-7.103-8.186-15.864-8.186s-15.864,3.665-15.864,8.186V8.406
+				c0,0.348,0.282,0.63,0.63,0.63h30.469c0.348,0,0.63-0.282,0.63-0.63V-10.668z"/>
+		</defs>
+		<use xlink:href="#SVGID_1_" overflow="visible" fill="#474A59"/>
+
+		<path clip-path="url(#SVGID_2_)" fill="#474A59" stroke="#808391" stroke-width="0.5" stroke-miterlimit="10" d="M15.901-6.377
+			c0-4.833-7.103-8.751-15.864-8.751s-15.864,3.918-15.864,8.751h-1.92v16.09h36.076V-6.434L15.901-6.377z"/>
+		<use xlink:href="#SVGID_1_" overflow="visible" fill="none" stroke="#808391" stroke-width="0.5" stroke-miterlimit="10"/>
+	</g>
+	<path fill="#FFFFFF" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" d="M-16.545,1.188"/>
+	<g>
+		<defs>
+			<path id="SVGID_3_" d="M15.901,8.414c0-3.087-7.103-5.589-15.864-5.589s-15.864,2.502-15.864,5.589s7.103,5.589,15.864,5.589
+				S15.901,11.501,15.901,8.414z"/>
+		</defs>
+		<use xlink:href="#SVGID_3_" overflow="visible" fill="#B1B8C3"/>
+
+		<path clip-path="url(#SVGID_4_)" fill="#C2C9D0" stroke="#D9DEE4" stroke-width="0.5" stroke-miterlimit="10" d="M15.901,0.623
+			c0-3.087-7.103-5.589-15.864-5.589s-15.864,2.502-15.864,5.589s7.103,5.589,15.864,5.589S15.901,3.71,15.901,0.623z"/>
+		<use xlink:href="#SVGID_3_" overflow="visible" fill="none" stroke="#D9DEE4" stroke-miterlimit="10"/>
+	</g>
+	<path fill="#E6E7EB" stroke="#9C9EA5" stroke-width="0.5" stroke-miterlimit="10" d="M16.276,5.234
+		c0.059,0.012,0.119,0.019,0.181,0.019h2.903c2.465,0,2.465-2.484-0.049-2.484h-3.205l-0.099-1.581h3.353
+		c4.487,0,4.437,5.476,0.049,5.476h-2.717c-0.233,0-0.421-0.189-0.42-0.422L16.276,5.234z M14.257,2.769h-1.26
+		c-1.197,0-2.167-1.111-2.167-2.481V-4.27c0-0.212,0.198-0.346,0.36-0.244c0.72,0.452,1.168,1.318,1.168,2.259v2.293
+		c0,0.635,0.45,1.15,1.004,1.15h0.894V2.769z"/>
+	<line fill="#E6E7EB" stroke="#9C9EA5" stroke-width="0.5" stroke-miterlimit="10" x1="16.484" y1="2.769" x2="13.591" y2="2.769"/>
+	<line fill="#E6E7EB" stroke="#9C9EA5" stroke-width="0.5" stroke-miterlimit="10" x1="16.665" y1="1.188" x2="13.821" y2="1.188"/>
+	<polygon fill="#E6E7EB" points="13.768,1.434 17.08,1.434 17.08,2.521 13.768,2.521 	"/>
+	<path fill="#E6E7EB" d="M16.167,5.94c0.139,0.193,0.207,0.35,0.291,0.47h2.008l-0.004-0.903h-1.893
+		c-0.309-0.009-0.304-0.025-0.387-0.108L16.167,5.94z"/>
+	<path fill="#E6E7EB" stroke="#9C9EA5" stroke-width="0.5" stroke-miterlimit="10" d="M-16.269,6.664h-3.139
+		c-4.388,0-4.437-5.476,0.049-5.476h3.353l-0.099,1.581h-3.205c-2.514,0-2.514,2.484-0.049,2.484h2.903
+		c0.062,0,0.122-0.006,0.181-0.019L-16.269,6.664z M-14.256,1.188h0.894c0.555,0,1.004-0.515,1.004-1.15v-2.293
+		c0-0.941,0.448-1.807,1.168-2.259c0.162-0.102,0.36,0.033,0.36,0.244v4.557c0,1.37-0.97,2.481-2.167,2.481h-1.26V1.188z"/>
+
+		<line fill="#E6E7EB" stroke="#9C9EA5" stroke-width="0.5" stroke-miterlimit="10" x1="-16.483" y1="2.769" x2="-13.59" y2="2.769"/>
+
+		<line fill="#E6E7EB" stroke="#9C9EA5" stroke-width="0.5" stroke-miterlimit="10" x1="-16.664" y1="1.188" x2="-13.82" y2="1.188"/>
+	<polygon fill="#E6E7EB" points="-13.434,1.434 -16.746,1.434 -16.746,2.521 -13.434,2.521 	"/>
+	<path fill="#E6E7EB" d="M-16.021,6.023c-0.139,0.193-0.147,0.287-0.249,0.387h-2.195l0.004-0.903h1.893
+		c0.309-0.009,0.359,0.022,0.546-0.072L-16.021,6.023z"/>
+	<path fill="#9C9EA5" stroke="#56585B" stroke-width="0.5" stroke-miterlimit="10" d="M0.149,14.455
+		c-9.136,0-16.542-2.901-16.542-6.479c0-3.578,7.406-6.479,16.542-6.479s16.542,2.901,16.542,6.479
+		C16.691,11.555,9.285,14.455,0.149,14.455z M0.149,2.852c-8.499,0-15.389,2.421-15.389,5.406s6.89,5.406,15.389,5.406
+		s15.389-2.421,15.389-5.406S8.648,2.852,0.149,2.852z"/>
+	<path opacity="0.57" fill="#CFD8D4" stroke="#444946" stroke-width="0.5" stroke-miterlimit="10" d="M15.384,9.148
+		c-0.683,1.802-2.7,3.273-5.053,4.426c-6.437,3.154-14.038,3.154-20.475,0c-2.354-1.153-4.37-2.623-5.053-4.426
+		c0,0-2.087-5.733,15.235-6.18V2.964c0.019,0,0.037,0.001,0.056,0.002c0.019,0,0.037-0.001,0.056-0.002v0.003
+		C17.47,3.415,15.384,9.148,15.384,9.148z"/>
+
+		<path fill="#E6E7EB" stroke="#9C9EA5" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M4.153,17.437c-0.397,0.406-0.838,0.769-1.313,1.08c-0.701,0.458-1.548,0.428-2.282,0.025c-0.804-0.442-3.326-2.585-4.041-6.051
+		c0,0-1.029-0.82-1.386-1.754c-0.124-0.325,0.112-0.686,0.46-0.678c1.747,0.041,2.565,1.192,2.565,1.192
+		c0.138,2.006,1.132,3.93,2.652,5.241c0.521,0.449,1.286,0.499,1.852,0.107c0.184-0.127,0.361-0.264,0.53-0.41"/>
+</symbol>
+<g>
+
+		<use xlink:href="#New_Symbol_3" width="45.924" height="38.206" x="-22.961" y="-19.104" transform="matrix(3.6953 0 0 -3.6953 96.4816 223.5524)" overflow="visible"/>
+
+		<use xlink:href="#New_Symbol_3" width="45.924" height="38.206" x="-22.961" y="-19.104" transform="matrix(3.6953 0 0 -4.4355 212.8849 354.4844)" overflow="visible"/>
+
+		<use xlink:href="#New_Symbol_3" width="45.924" height="38.206" x="-22.961" y="-19.104" transform="matrix(3.9532 0 0 -2.809 319.4608 218.4744)" overflow="visible"/>
+
+		<use xlink:href="#New_Symbol_3" width="45.924" height="38.206" x="-22.961" y="-19.104" transform="matrix(2.5487 0 0 -2.6884 208.4033 112.1325)" overflow="visible"/>
+</g>
+</svg>
