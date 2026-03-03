@@ -52,4 +52,12 @@ cgi-bin/
 composer.phar
 
 /frontend/web/assets/
-/backend/web/assets/
+/frontend/web/img/
+/frontend/web/bundle/
+/frontend/web/assets1/
+/frontend/web/images/
+/frontend/web/imgOld/
+/frontend/web/Yii2 works/
+/frontend/web/slick/
+/frontend/web/Yii2 works/
+/frontend/web/
