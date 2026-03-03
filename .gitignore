@@ -50,3 +50,6 @@ tests/codeception/*/_support/_generated/*
 # === Misc ===
 cgi-bin/
 composer.phar
+
+/frontend/web/assets/
+/backend/web/assets/
