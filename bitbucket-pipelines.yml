@@ -1,0 +1,12 @@
+image: php:8.0-fpm
+
+pipelines:
+  default:
+    - step:
+        name: App Build
+        deployment: production
+        script:
+          - apt-get update && apt-get install -qy git zip curl libmcrypt-dev libxml2-dev wget rsync
+#          - rsync -av -e "ssh -A jawwad@34.247.221.176 ssh" ./info.php ubuntu@3.69.215.102:/home/ubuntu/
+          - rsync -zrSlh --stats --exclude-from=deployment-exclude-list.txt ./ $USER@$SERVER:/home/jawwad/default
+          - ssh $USER@$SERVER "/home/jawwad/rsync-mihe"

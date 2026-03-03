@@ -1,0 +1,52 @@
+# === Environment & Secrets ===
+/.env
+/.env.local
+
+# === Dependencies ===
+/vendor/
+/node_modules/
+
+# === Large files - SQL dumps & backups ===
+*.sql
+*.zip
+betaBackup.zip
+assets.zip
+yii2.zip
+
+# === Runtime & generated files ===
+runtime/
+/assets/
+storage/web/source/
+
+# === Logs ===
+*.log
+error_log
+access_log
+
+# === IDE ===
+.idea/
+nbproject/
+.vscode/
+.buildpath
+.project
+.settings
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+.ftpquota
+
+# === Testing ===
+phpunit.phar
+/phpunit.xml
+tests/codeception/*/_support/_generated/*
+
+# === Docker/Deploy (not needed for read access) ===
+/.vagrant
+
+# === Old git backup ===
+.git-old-backup/
+
+# === Misc ===
+cgi-bin/
+composer.phar
